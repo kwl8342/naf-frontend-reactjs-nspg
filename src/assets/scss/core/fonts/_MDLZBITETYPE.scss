@@ -1,0 +1,12 @@
+//MDLZBITETYPE-Regular
+@font-face {
+    font-family: 'MDLZBITETYPE';
+    src: url('#{$font-url}/MDLZBITETYPE-Regular.eot');
+    src: local('MDLZBITETYPE Regular'), local('MDLZBITETYPE Regular'),
+        url('#{$font-url}/MDLZBITETYPE-Regular.eot#iefix') format('embedded-opentype'),
+        url('#{$font-url}/MDLZBITETYPE-Regular.woff2') format('woff2'),
+        url('#{$font-url}/MDLZBITETYPE-Regular.woff') format('woff'),
+        url('#{$font-url}/MDLZBITETYPE-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
